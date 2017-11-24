@@ -22,3 +22,4 @@ clickするとダウンロード開始と終了をお知らせ
 
 ## more info
 
+https://qiita.com/sasaki_K_sasaki/items/f4472ac8931a89a27dc9
