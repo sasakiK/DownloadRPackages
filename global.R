@@ -23,7 +23,6 @@ library(dplyr)
 library(shiny)
 library(rintrojs)
 library(miniCRAN)
-library(shinyWidgets)
 library(shinymaterial)
 
 
