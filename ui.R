@@ -15,7 +15,7 @@ ui <- material_page(title = "　Update your Packages　",
                     introjsUI(),
                     
                     material_parallax(
-                      image_source = "wood-pen-usb-vintage"
+                      image_source = "wood-pen-usb-vintage.jpg"
                     ),
                     
                     material_row(
