@@ -1,0 +1,2 @@
+# DownloadRPackages
+オフラインPCへのRパッケージ導入を自動化します
